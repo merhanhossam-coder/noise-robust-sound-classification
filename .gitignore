@@ -1,0 +1,6 @@
+data/processed/waveforms.npy
+data/processed/esc50.zip
+data/*.zip
+__pycache__/
+*.pyc
+.venv/

@@ -1,0 +1,13 @@
+aug:
+  shift: true
+  specaug: true
+bs: 32
+epochs: 25
+lr: 0.003
+model: hybrid
+model_kwargs:
+  use_attention: false
+name: abl_hybrid_noattn_s0
+save_ckpt: false
+seed: 0
+wd: 0.01

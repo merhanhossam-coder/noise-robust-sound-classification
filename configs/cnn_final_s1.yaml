@@ -1,0 +1,12 @@
+aug:
+  shift: true
+  specaug: true
+bs: 32
+epochs: 25
+lr: 0.003
+model: cnn
+model_kwargs: {}
+name: cnn_final_s1
+save_ckpt: false
+seed: 1
+wd: 0.01
