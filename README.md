@@ -60,7 +60,7 @@ Per-model training/inference time is in `experiments/tables/table7_cost.md`.
 * Ideas adapted (re-implemented, no pretrained weights, no external AI APIs): SpecAugment (Park et al., 2019), mixup (Zhang et al., 2018),
   AST (Gong et al., 2021), masked autoencoders (He et al., 2022), Squeeze-and-Excitation (Hu et al., 2018), Conformer-style CNN+Transformer hybrids (Gulati et al., 2020).
 * Libraries: PyTorch, librosa (resampling only), scikit-learn, scipy, matplotlib, Gradio.
-* Checkpoints / large files: *(paste shared-drive link here)*
+* Checkpoints / large files: *Not needed: small checkpoints are included in checkpoints/; the dataset is downloaded by data/prepare_esc50.py.*
 
 ## Layout
 ```
