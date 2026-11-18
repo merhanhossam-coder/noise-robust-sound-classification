@@ -1,0 +1,21 @@
+[abl_hybrid_nospecaug_s0] ep0 loss 3.681 val_f1 0.094
+[abl_hybrid_nospecaug_s0] ep5 loss 2.001 val_f1 0.546
+[abl_hybrid_nospecaug_s0] ep10 loss 1.375 val_f1 0.577
+[abl_hybrid_nospecaug_s0] ep15 loss 1.054 val_f1 0.685
+[abl_hybrid_nospecaug_s0] ep20 loss 0.937 val_f1 0.742
+[abl_hybrid_nospecaug_s0] ep24 loss 0.917 val_f1 0.747
+[abl_hybrid_nospecaug_s0] DONE val_f1 0.747 test_f1 0.604 time 212s
+[abl_hybrid_noattn_s1] ep0 loss 3.823 val_f1 0.050
+[abl_hybrid_noattn_s1] ep5 loss 2.445 val_f1 0.318
+[abl_hybrid_noattn_s1] ep10 loss 2.003 val_f1 0.535
+[abl_hybrid_noattn_s1] ep15 loss 1.788 val_f1 0.625
+[abl_hybrid_noattn_s1] ep20 loss 1.636 val_f1 0.640
+[abl_hybrid_noattn_s1] ep24 loss 1.588 val_f1 0.642
+[abl_hybrid_noattn_s1] DONE val_f1 0.646 test_f1 0.600 time 175s
+[abl_hybrid_noattn_s2] ep0 loss 3.767 val_f1 0.064
+[abl_hybrid_noattn_s2] ep5 loss 2.474 val_f1 0.432
+[abl_hybrid_noattn_s2] ep10 loss 1.957 val_f1 0.481
+[abl_hybrid_noattn_s2] ep15 loss 1.736 val_f1 0.633
+[abl_hybrid_noattn_s2] ep20 loss 1.607 val_f1 0.653
+[abl_hybrid_noattn_s2] ep24 loss 1.587 val_f1 0.653
+[abl_hybrid_noattn_s2] DONE val_f1 0.664 test_f1 0.576 time 181s

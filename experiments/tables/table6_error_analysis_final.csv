@@ -1,0 +1,9 @@
+Error type (true → predicted),Count,Example (test clip),Likely cause
+frog → dog,4,5-156026-A-4.wav,Both are short vocal bursts with harmonic structure; frog clips are mostly silence (44 % near-silent samples vs 33 % average)†.
+fireworks → keyboard_typing,4,5-160614-A-48.wav,Sparse broadband impulses separated by silence (49 % near-silent samples)† resemble key-click trains; fireworks recall is 0/8.
+engine → washing_machine,4,5-209992-A-44.wav,Quasi-stationary low-frequency broadband hum with similar long-term spectrum (hypothesis).
+clock_tick → dog,4,5-210571-A-38.wav,"Clock-tick clips are mostly silence (66 % near-silent samples)†, giving very few informative frames; short clicks resemble barks (hypothesis)."
+wind → helicopter,3,5-157204-A-16.wav,Low-frequency noise-like texture; helicopter's weak periodic modulation is hard to separate (hypothesis).
+vacuum_cleaner → clock_alarm,3,5-182010-A-36.wav,Not obvious from the data; needs listening/spectrogram inspection to explain.
+train → helicopter,3,5-188945-A-45.wav,Rhythmic low-frequency periodicity common to both (hypothesis).
+pig → cow,2,5-103415-A-2.wav,Low-pitched mammal vocalisations with overlapping formant structure (hypothesis).

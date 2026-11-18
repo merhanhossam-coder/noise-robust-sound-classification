@@ -1,0 +1,6 @@
+Model,Params,Size (MB),Train time (s),Inference (ms/clip),Hardware
+Baseline (MFCC+SVM),220336,1.76,0,0.28,"1 vCPU (no GPU), 3 GB RAM"
+CNN (classic),103842,0.42,210,3.88,"1 vCPU (no GPU), 3 GB RAM"
+AST scratch (modern),333090,1.33,189,2.69,"1 vCPU (no GPU), 3 GB RAM"
+AST + SSL pre-train (modern),333090,1.33,185,2.63,"1 vCPU (no GPU), 3 GB RAM"
+ConvTransformer (advanced),240846,0.96,218,3.13,"1 vCPU (no GPU), 3 GB RAM"

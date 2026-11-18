@@ -1,0 +1,6 @@
+| Variant                                       | Macro-F1 (%)   | Δ vs full (pts)                |   n seeds |
+|:----------------------------------------------|:---------------|:-------------------------------|----------:|
+| Full ConvTransformer                          | 62.9 ± 1.5     | —                              |         3 |
+| − Transformer + attention pooling (mean pool) | 58.8 ± 1.0     | -4.1                           |         3 |
+| − SpecAugment                                 | 60.4 ± 0.0     | -2.4                           |         1 |
+| AST: − SSL pre-training (scratch)             | 31.0 ± 2.6     | +1.3 (ref: AST+SSL 29.7 ± 2.6) |         3 |

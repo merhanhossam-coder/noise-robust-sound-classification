@@ -1,0 +1,13 @@
+Model,LR,Val macro-F1 (%)
+CNN (classic),0.0003,41.8
+CNN (classic),0.001,57.0
+CNN (classic),0.003,62.6
+AST scratch (modern),0.0003,24.1
+AST scratch (modern),0.001,32.9
+AST scratch (modern),0.003,28.4
+AST + SSL pre-train (modern),0.0003,22.5
+AST + SSL pre-train (modern),0.001,31.4
+AST + SSL pre-train (modern),0.003,29.4
+ConvTransformer (advanced),0.0003,56.4
+ConvTransformer (advanced),0.001,67.9
+ConvTransformer (advanced),0.003,72.0

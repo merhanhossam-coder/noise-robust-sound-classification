@@ -1,0 +1,7 @@
+[hybrid_demo] ep0 loss 3.749 val_f1 0.067
+[hybrid_demo] ep5 loss 2.363 val_f1 0.422
+[hybrid_demo] ep10 loss 1.845 val_f1 0.559
+[hybrid_demo] ep15 loss 1.464 val_f1 0.688
+[hybrid_demo] ep20 loss 1.290 val_f1 0.678
+[hybrid_demo] ep24 loss 1.204 val_f1 0.720
+[hybrid_demo] DONE val_f1 0.720 test_f1 0.637 time 463s
