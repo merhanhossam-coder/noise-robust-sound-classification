@@ -1,0 +1,931 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 2
+/Kids [ 4 0 R 13 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 841.8898 595.2756 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F1-1 8 0 R
+/F1-2 9 0 R
+/F2 10 0 R
+/F2-0 11 0 R
+/F2-1 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 10879
+>>
+stream
+q
+q
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 28.67717 552.4331 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 14 Tf 17 TL 143.7047 0 Td (Individual Contribution Log \226 AI403 Deep Learning Final Project \(Fall 2026\)) Tj T* -143.7047 0 Td ET
+Q
+Q
+q
+1 0 0 1 28.67717 538.4331 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf 0 0 0 rg (Student:) Tj /F1 8 Tf ( Merham Hossam  ) Tj (  ) Tj /F2 8 Tf (ID:) Tj /F1 8 Tf ( 202301681  ) Tj (  ) Tj /F2 8 Tf (Team:) Tj /F1 8 Tf ( Team_ESC50) Tj T* ET
+Q
+Q
+q
+1 0 0 1 28.67717 528.4331 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf 0 0 0 rg (Project:) Tj /F1 8 Tf ( Noise-robust environmental sound classification \(ESC-50\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 28.67717 518.4331 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf 0 0 0 rg (Suggested contribution area:) Tj /F1 8 Tf ( Audio Spectrogram Transformer \(AST\), patch/token processing, and self-supervised learning) Tj T* ET
+Q
+Q
+q
+1 0 0 1 28.67717 512.7638 cm
+Q
+q
+1 0 0 1 28.67717 494.7638 cm
+q
+BT 1 0 0 1 0 10.8 Tm 9 TL /F2 7.2 Tf 0 0 0 rg (IMPORTANT \226 DRAFT FOR VERIFICATION:) Tj /F1 7.2 Tf ( These detailed entries are suggested wording based on the project topics and the contribution split requested by the team. Keep only tasks the student actually performed. Fill in actual hours,) Tj T* (commit/run evidence, problems encountered, teammate co-signature, and dates. Do not submit unverified work as personal contribution.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 28.67717 489.0945 cm
+Q
+q
+1 0 0 1 46.77165 78.07087 cm
+q
+.203922 .286275 .368627 rg
+n 0 411.0236 748.3465 -28.34646 re f*
+1 1 1 rg
+n 0 382.6772 748.3465 -382.6772 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 3 392.8504 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1 Tm /F2 7 Tf 8 TL 14.78713 0 Td (Week) Tj T* -14.78713 0 Td ET
+Q
+Q
+q
+1 0 0 1 56.85827 392.8504 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1 Tm /F2 7 Tf 8 TL 67.34526 0 Td (Task / detailed work performed) Tj T* -67.34526 0 Td ET
+Q
+Q
+q
+1 0 0 1 300.6378 392.8504 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1 Tm /F2 7 Tf 8 TL 5.313697 0 Td (Hours) Tj T* -5.313697 0 Td ET
+Q
+Q
+q
+1 0 0 1 337.4882 388.8504 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 9 Tm /F2 7 Tf 8 TL 16.04705 0 Td (Evidence \(actual commits, runs, report) Tj T* 49.21 0 Td (sections\)) Tj T* -65.25705 0 Td ET
+Q
+Q
+q
+1 0 0 1 504.7323 392.8504 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1 Tm /F2 7 Tf 8 TL 28.0715 0 Td (Problems / challenges) Tj T* -28.0715 0 Td ET
+Q
+Q
+q
+1 0 0 1 640.7953 392.8504 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1 Tm /F2 7 Tf 8 TL 1.322591 0 Td (Co-signed by \(teammate, date\)) Tj T* -1.322591 0 Td ET
+Q
+Q
+q
+1 0 0 1 3 340.1594 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.6 Tm /F1 6.9 Tf 8.5 TL (6) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.85827 318.9094 cm
+q
+BT 1 0 0 1 0 44.1 Tm 8.5 TL /F2 6.9 Tf 0 0 0 rg (AST methodology and spectrogram-token preparation) Tj /F1 6.9 Tf  T* (Reviewed the Audio Spectrogram Transformer approach and how a log-Mel) Tj T* (spectrogram is divided into fixed-size patches. Checked the expected) Tj T* (spectrogram dimensions and the patch dimensions used in the project, and) Tj T* (mapped the resulting patches into the token sequence required by the) Tj T* (Transformer.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 300.6378 340.1594 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.6 Tm /F1 6.9 Tf 8.5 TL (____) Tj T* ET
+Q
+Q
+q
+1 0 0 1 337.4882 331.6594 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 18.6 Tm /F1 6.9 Tf 8.5 TL (AST design notes; patchification/tokenization code;) Tj T* (tensor-shape checks. Add actual files and commit) Tj T* (IDs.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 504.7323 327.4094 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 27.1 Tm /F1 6.9 Tf 8.5 TL -0.066642 Tw (Maintaining correct patch count and tensor) Tj T* 0 Tw (dimensions when converting a) Tj T* (two-dimensional spectrogram into a) Tj T* (sequence of tokens.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 640.7953 335.9094 cm
+q
+BT 1 0 0 1 0 10.1 Tm 8.5 TL /F1 6.9 Tf 0 0 0 rg (____________________) Tj  T* (Date: __________) Tj T* ET
+Q
+Q
+q
+1 0 0 1 3 263.624 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.6 Tm /F1 6.9 Tf 8.5 TL (7) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.85827 242.374 cm
+q
+BT 1 0 0 1 0 44.1 Tm 8.5 TL /F2 6.9 Tf 0 0 0 rg (AST architecture implementation) Tj /F1 6.9 Tf  T* (Implemented or worked on the AST classification path, including patch) Tj T* (embedding, positional information where used, Transformer encoder blocks,) Tj T* (and the classification head for the 50 ESC-50 classes. Checked that the) Tj T* (model accepted the prepared spectrogram input and returned class logits with) Tj T* (the expected shape.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 300.6378 263.624 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.6 Tm /F1 6.9 Tf 8.5 TL (____) Tj T* ET
+Q
+Q
+q
+1 0 0 1 337.4882 259.374 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 10.1 Tm /F1 6.9 Tf 8.5 TL (AST model code; architecture printout; forward-pass) Tj T* (test; add exact evidence.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 504.7323 255.124 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 18.6 Tm /F1 6.9 Tf 8.5 TL (Transformer models are sensitive to input) Tj T* (and embedding dimensions; limited) Tj T* (dataset size also increases overfitting risk.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 640.7953 259.374 cm
+q
+BT 1 0 0 1 0 10.1 Tm 8.5 TL /F1 6.9 Tf 0 0 0 rg (____________________) Tj  T* (Date: __________) Tj T* ET
+Q
+Q
+q
+1 0 0 1 3 187.0886 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.6 Tm /F1 6.9 Tf 8.5 TL (8) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.85827 170.0886 cm
+q
+BT 1 0 0 1 0 35.6 Tm 8.5 TL /F2 6.9 Tf 0 0 0 rg (AST-from-scratch training) Tj /F1 6.9 Tf  T* (Trained the AST model from scratch under the common experiment protocol.) Tj T* (Monitored training and validation behavior, recorded the selected) Tj T* (learning-rate/configuration results, and compared the AST validation) Tj T* (performance with the CNN and baseline approaches.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 300.6378 187.0886 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.6 Tm /F1 6.9 Tf 8.5 TL (____) Tj T* ET
+Q
+Q
+q
+1 0 0 1 337.4882 182.8386 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 10.1 Tm /F1 6.9 Tf 8.5 TL (AST training logs; validation metrics; saved) Tj T* (checkpoint/configuration. Add actual run identifiers.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 504.7323 174.3386 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 27.1 Tm /F1 6.9 Tf 8.5 TL (The available training data and epoch) Tj T* (budget may be insufficient for a) Tj T* (Transformer trained from scratch to learn) Tj T* (a strong representation.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 640.7953 182.8386 cm
+q
+BT 1 0 0 1 0 10.1 Tm 8.5 TL /F1 6.9 Tf 0 0 0 rg (____________________) Tj  T* (Date: __________) Tj T* ET
+Q
+Q
+q
+1 0 0 1 3 110.5531 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.6 Tm /F1 6.9 Tf 8.5 TL (9) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.85827 93.55315 cm
+q
+BT 1 0 0 1 0 35.6 Tm 8.5 TL /F2 6.9 Tf 0 0 0 rg (Self-supervised masked-spectrogram experiment) Tj /F1 6.9 Tf  T* (Prepared or ran the self-supervised experiment in which a portion of) Tj T* -0.03337 Tw (spectrogram patches is masked and the model learns to reconstruct or predict) Tj T* 0 Tw (the missing information. Reused the learned encoder for downstream ESC-50) Tj T* (classification fine-tuning, as described in the project.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 300.6378 110.5531 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.6 Tm /F1 6.9 Tf 8.5 TL (____) Tj T* ET
+Q
+Q
+q
+1 0 0 1 337.4882 102.0531 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 18.6 Tm /F1 6.9 Tf 8.5 TL (Masking/pre-training code; pre-training logs;) Tj T* (fine-tuning configuration and outputs. Add actual) Tj T* (evidence.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 504.7323 93.55315 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 35.6 Tm /F1 6.9 Tf 8.5 TL (Self-supervised pre-training may not help) Tj T* (when the unlabeled dataset is small or the) Tj T* (pre-training schedule is limited;) Tj T* (pre-training and fine-tuning stages must) Tj T* (be kept distinct.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 640.7953 106.3031 cm
+q
+BT 1 0 0 1 0 10.1 Tm 8.5 TL /F1 6.9 Tf 0 0 0 rg (____________________) Tj  T* (Date: __________) Tj T* ET
+Q
+Q
+q
+1 0 0 1 3 34.01772 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.6 Tm /F1 6.9 Tf 8.5 TL (10) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.85827 12.76772 cm
+q
+BT 1 0 0 1 0 44.1 Tm 8.5 TL /F2 6.9 Tf 0 0 0 rg (AST and AST+SSL comparison) Tj /F1 6.9 Tf  T* (Compared AST trained from scratch with the AST+SSL pipeline using the) Tj T* (project's evaluation metrics. Reviewed the observed results and considered) Tj T* (why the self-supervised setup did not improve the final score under the) Tj T* -0.039467 Tw (available data and compute budget. Helped document this as an experimental) Tj T* 0 Tw (finding rather than claiming SSL is generally ineffective.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 300.6378 34.01772 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.6 Tm /F1 6.9 Tf 8.5 TL (____) Tj T* ET
+Q
+Q
+q
+1 0 0 1 337.4882 25.51772 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 18.6 Tm /F1 6.9 Tf 8.5 TL (AST/AST+SSL metrics; comparison table; report) Tj T* (discussion. Add exact run IDs and commit) Tj T* (references.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 504.7323 17.01772 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 35.6 Tm /F1 6.9 Tf 8.5 TL (Interpreting a small performance) Tj T* (difference cautiously and separating) Tj T* (limitations of this experiment from general) Tj T* (conclusions about self-supervised) Tj T* (learning.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 640.7953 29.76772 cm
+q
+BT 1 0 0 1 0 10.1 Tm 8.5 TL /F1 6.9 Tf 0 0 0 rg (____________________) Tj  T* (Date: __________) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.533333 .533333 .533333 RG
+.45 w
+n 0 411.0236 m 748.3465 411.0236 l S
+n 0 0 m 0 411.0236 l S
+n 748.3465 0 m 748.3465 411.0236 l S
+n 0 0 m 748.3465 0 l S
+n 0 382.6772 m 748.3465 382.6772 l S
+n 0 306.1417 m 748.3465 306.1417 l S
+n 0 229.6063 m 748.3465 229.6063 l S
+n 0 153.0709 m 748.3465 153.0709 l S
+n 0 76.53543 m 748.3465 76.53543 l S
+n 53.85827 0 m 53.85827 411.0236 l S
+n 297.6378 0 m 297.6378 411.0236 l S
+n 334.4882 0 m 334.4882 411.0236 l S
+n 501.7323 0 m 501.7323 411.0236 l S
+n 637.7953 0 m 637.7953 411.0236 l S
+Q
+Q
+Q
+ 
+
+Q
+q
+0.0 0.0 841.8898 595.2756 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 350.4095 420.402 Tm
+(3) Tj
+T*
+ET
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 350.4095 343.8666 Tm
+(6) Tj
+T*
+ET
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 350.4095 267.3312 Tm
+(8) Tj
+T*
+ET
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 350.4095 190.7957 Tm
+(6) Tj
+T*
+ET
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 350.4095 114.2603 Tm
+(4) Tj
+T*
+ET
+BT
+/F1-0 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 706.9762 415.652 Tm
+(17\05711\0572026) Tj
+T*
+ET
+BT
+/F1-0 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 706.9762 339.1166 Tm
+(17\05711\0572026) Tj
+T*
+ET
+BT
+/F1-0 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 706.9762 262.5812 Tm
+(17\05711\0572026) Tj
+T*
+ET
+BT
+/F1-0 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 706.9762 186.0457 Tm
+(17\05711\0572026) Tj
+T*
+ET
+BT
+/F1-0 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 706.9762 109.5103 Tm
+(17\05711\0572026) Tj
+T*
+ET
+Q
+
+Q
+q
+0.0 0.0 841.8898 595.2756 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-1 12 Tf
+14.4 TL
+ET
+BT
+/F2-1 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 689.567 424.652 Tm
+(Amira Samy) Tj
+T*
+ET
+BT
+/F2-1 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 689.567 348.1166 Tm
+(Amira Samy) Tj
+T*
+ET
+BT
+/F2-1 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 689.567 271.5812 Tm
+(Amira Samy) Tj
+T*
+ET
+BT
+/F2-1 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 689.567 195.0457 Tm
+(Amira Samy) Tj
+T*
+ET
+BT
+/F2-1 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 689.567 118.5103 Tm
+(Amira Samy) Tj
+T*
+ET
+Q
+
+Q
+q
+0.0 0.0 841.8898 595.2756 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-2 12 Tf
+14.4 TL
+ET
+Q
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+11 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+12 0 obj
+<<
+/BaseFont /Helvetica-Oblique
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+13 0 obj
+<<
+/Contents 14 0 R
+/MediaBox [ 0 0 841.8898 595.2756 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 15 0 R
+/F1-1 16 0 R
+/F1-2 17 0 R
+/F2 10 0 R
+/F2-0 18 0 R
+/F2-1 19 0 R
+/F2-2 20 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+14 0 obj
+<<
+/Length 3910
+>>
+stream
+q
+q
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 46.77165 464.5512 cm
+q
+.203922 .286275 .368627 rg
+n 0 104.8819 748.3465 -28.34646 re f*
+1 1 1 rg
+n 0 76.53543 748.3465 -76.53543 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 3 86.70866 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1 Tm /F2 7 Tf 8 TL 14.78713 0 Td (Week) Tj T* -14.78713 0 Td ET
+Q
+Q
+q
+1 0 0 1 56.85827 86.70866 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1 Tm /F2 7 Tf 8 TL 67.34526 0 Td (Task / detailed work performed) Tj T* -67.34526 0 Td ET
+Q
+Q
+q
+1 0 0 1 300.6378 86.70866 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1 Tm /F2 7 Tf 8 TL 5.313697 0 Td (Hours) Tj T* -5.313697 0 Td ET
+Q
+Q
+q
+1 0 0 1 337.4882 82.70866 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 9 Tm /F2 7 Tf 8 TL 16.04705 0 Td (Evidence \(actual commits, runs, report) Tj T* 49.21 0 Td (sections\)) Tj T* -65.25705 0 Td ET
+Q
+Q
+q
+1 0 0 1 504.7323 86.70866 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1 Tm /F2 7 Tf 8 TL 28.0715 0 Td (Problems / challenges) Tj T* -28.0715 0 Td ET
+Q
+Q
+q
+1 0 0 1 640.7953 86.70866 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1 Tm /F2 7 Tf 8 TL 1.322591 0 Td (Co-signed by \(teammate, date\)) Tj T* -1.322591 0 Td ET
+Q
+Q
+q
+1 0 0 1 3 34.01772 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.6 Tm /F1 6.9 Tf 8.5 TL (Final \(to 20/11\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.85827 17.01772 cm
+q
+BT 1 0 0 1 0 35.6 Tm 8.5 TL /F2 6.9 Tf 0 0 0 rg (Transformer findings and final documentation) Tj /F1 6.9 Tf  T* (Reviewed the AST and self-supervised-learning methodology, checked the) Tj T* (final metrics and descriptions, and contributed the Transformer comparison) Tj T* (and limitations discussion to the report. Ensured that the report explains the) Tj T* (small-data/training-budget context for the observed AST results.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 300.6378 34.01772 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.6 Tm /F1 6.9 Tf 8.5 TL (____) Tj T* ET
+Q
+Q
+q
+1 0 0 1 337.4882 25.51772 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 18.6 Tm /F1 6.9 Tf 8.5 TL (Final AST/SSL report sections; final experiment) Tj T* (outputs; repository commits. Add actual dates and) Tj T* (IDs.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 504.7323 21.26772 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 27.1 Tm /F1 6.9 Tf 8.5 TL (Keeping architecture descriptions,) Tj T* (reported metrics, and conclusions) Tj T* (consistent with the final experiment) Tj T* (records.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 640.7953 29.76772 cm
+q
+BT 1 0 0 1 0 10.1 Tm 8.5 TL /F1 6.9 Tf 0 0 0 rg (____________________) Tj  T* (Date: __________) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.533333 .533333 .533333 RG
+.45 w
+n 0 104.8819 m 748.3465 104.8819 l S
+n 0 76.53543 m 0 104.8819 l S
+n 0 0 m 0 76.53543 l S
+n 748.3465 76.53543 m 748.3465 104.8819 l S
+n 748.3465 0 m 748.3465 76.53543 l S
+n 0 0 m 748.3465 0 l S
+n 0 76.53543 m 748.3465 76.53543 l S
+n 53.85827 76.53543 m 53.85827 104.8819 l S
+n 297.6378 76.53543 m 297.6378 104.8819 l S
+n 334.4882 76.53543 m 334.4882 104.8819 l S
+n 501.7323 76.53543 m 501.7323 104.8819 l S
+n 637.7953 76.53543 m 637.7953 104.8819 l S
+n 53.85827 0 m 53.85827 76.53543 l S
+n 297.6378 0 m 297.6378 76.53543 l S
+n 334.4882 0 m 334.4882 76.53543 l S
+n 501.7323 0 m 501.7323 76.53543 l S
+n 637.7953 0 m 637.7953 76.53543 l S
+Q
+Q
+Q
+q
+1 0 0 1 28.67717 456.0472 cm
+Q
+q
+1 0 0 1 28.67717 446.0472 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F1 8 Tf 0 0 0 rg (Student signature: ________________________________  ) Tj ( ) Tj ( ) Tj (  Date: ________________) Tj T* ET
+Q
+Q
+ 
+
+Q
+q
+0.0 0.0 841.8898 595.2756 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 350.4095 500.7406 Tm
+(3) Tj
+T*
+ET
+BT
+/F1-0 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 706.9762 495.9906 Tm
+(17\05711\0572026) Tj
+T*
+ET
+Q
+
+Q
+q
+0.0 0.0 841.8898 595.2756 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-1 12 Tf
+14.4 TL
+ET
+BT
+/F2-1 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 689.567 504.9906 Tm
+(Amira Samy) Tj
+T*
+ET
+Q
+
+Q
+q
+0.0 0.0 841.8898 595.2756 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-2 12 Tf
+14.4 TL
+ET
+BT
+/F2-2 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 98.82917 448.3912 Tm
+(Merham Hossam) Tj
+T*
+ET
+BT
+/F1-2 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 275.8532 448.3912 Tm
+(17\05711\0572026) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+15 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+16 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+17 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+18 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+19 0 obj
+<<
+/BaseFont /Helvetica-Oblique
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+20 0 obj
+<<
+/BaseFont /Helvetica-Oblique
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+xref
+0 21
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000120 00000 n 
+0000000169 00000 n 
+0000000463 00000 n 
+0000011395 00000 n 
+0000011502 00000 n 
+0000011609 00000 n 
+0000011716 00000 n 
+0000011823 00000 n 
+0000011936 00000 n 
+0000012049 00000 n 
+0000012165 00000 n 
+0000012477 00000 n 
+0000016440 00000 n 
+0000016548 00000 n 
+0000016656 00000 n 
+0000016764 00000 n 
+0000016877 00000 n 
+0000016993 00000 n 
+trailer
+<<
+/Size 21
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+17109
+%%EOF
