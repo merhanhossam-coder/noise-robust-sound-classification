@@ -1,0 +1,931 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 2
+/Kids [ 4 0 R 13 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 841.8898 595.2756 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F1-1 8 0 R
+/F1-2 9 0 R
+/F2 10 0 R
+/F2-0 11 0 R
+/F2-1 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 10953
+>>
+stream
+q
+q
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 28.67717 552.4331 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 14 Tf 17 TL 143.7047 0 Td (Individual Contribution Log \226 AI403 Deep Learning Final Project \(Fall 2026\)) Tj T* -143.7047 0 Td ET
+Q
+Q
+q
+1 0 0 1 28.67717 538.4331 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf 0 0 0 rg (Student:) Tj /F1 8 Tf ( Omnya Aly Mohamed  ) Tj (  ) Tj /F2 8 Tf (ID:) Tj /F1 8 Tf ( 202303221  ) Tj (  ) Tj /F2 8 Tf (Team:) Tj /F1 8 Tf ( Team_ESC50) Tj T* ET
+Q
+Q
+q
+1 0 0 1 28.67717 528.4331 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf 0 0 0 rg (Project:) Tj /F1 8 Tf ( Noise-robust environmental sound classification \(ESC-50\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 28.67717 518.4331 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf 0 0 0 rg (Suggested contribution area:) Tj /F1 8 Tf ( Audio preprocessing, feature extraction, and MFCC\226SVM baseline) Tj T* ET
+Q
+Q
+q
+1 0 0 1 28.67717 512.7638 cm
+Q
+q
+1 0 0 1 28.67717 494.7638 cm
+q
+BT 1 0 0 1 0 10.8 Tm 9 TL /F2 7.2 Tf 0 0 0 rg (IMPORTANT \226 DRAFT FOR VERIFICATION:) Tj /F1 7.2 Tf ( These detailed entries are suggested wording based on the project topics and the contribution split requested by the team. Keep only tasks the student actually performed. Fill in actual hours,) Tj T* (commit/run evidence, problems encountered, teammate co-signature, and dates. Do not submit unverified work as personal contribution.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 28.67717 489.0945 cm
+Q
+q
+1 0 0 1 46.77165 78.07087 cm
+q
+.203922 .286275 .368627 rg
+n 0 411.0236 748.3465 -28.34646 re f*
+1 1 1 rg
+n 0 382.6772 748.3465 -382.6772 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 3 392.8504 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1 Tm /F2 7 Tf 8 TL 14.78713 0 Td (Week) Tj T* -14.78713 0 Td ET
+Q
+Q
+q
+1 0 0 1 56.85827 392.8504 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1 Tm /F2 7 Tf 8 TL 67.34526 0 Td (Task / detailed work performed) Tj T* -67.34526 0 Td ET
+Q
+Q
+q
+1 0 0 1 300.6378 392.8504 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1 Tm /F2 7 Tf 8 TL 5.313697 0 Td (Hours) Tj T* -5.313697 0 Td ET
+Q
+Q
+q
+1 0 0 1 337.4882 388.8504 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 9 Tm /F2 7 Tf 8 TL 16.04705 0 Td (Evidence \(actual commits, runs, report) Tj T* 49.21 0 Td (sections\)) Tj T* -65.25705 0 Td ET
+Q
+Q
+q
+1 0 0 1 504.7323 392.8504 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1 Tm /F2 7 Tf 8 TL 28.0715 0 Td (Problems / challenges) Tj T* -28.0715 0 Td ET
+Q
+Q
+q
+1 0 0 1 640.7953 392.8504 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1 Tm /F2 7 Tf 8 TL 1.322591 0 Td (Co-signed by \(teammate, date\)) Tj T* -1.322591 0 Td ET
+Q
+Q
+q
+1 0 0 1 3 340.1594 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.6 Tm /F1 6.9 Tf 8.5 TL (6) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.85827 318.9094 cm
+q
+BT 1 0 0 1 0 44.1 Tm 8.5 TL /F2 6.9 Tf 0 0 0 rg (Dataset familiarization and audio-loading pipeline) Tj /F1 6.9 Tf  T* (Reviewed the ESC-50 dataset structure, metadata, class labels, official fold) Tj T* (organization, and WAV file format. Prepared the audio-loading workflow and) Tj T* (checked sample rate, channel count, duration, and signal shape for) Tj T* (representative clips. Documented the expected input format and identified) Tj T* (preprocessing requirements before model training.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 300.6378 340.1594 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.6 Tm /F1 6.9 Tf 8.5 TL (____) Tj T* ET
+Q
+Q
+q
+1 0 0 1 337.4882 331.6594 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 18.6 Tm /F1 6.9 Tf 8.5 TL (Dataset inspection notes; preprocessing) Tj T* (notebook/script; sample audio-loading outputs. Add) Tj T* (actual filenames or commit hashes.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 504.7323 327.4094 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 27.1 Tm /F1 6.9 Tf 8.5 TL (Dataset files with inconsistent) Tj T* (channel/sample-rate properties; ensuring) Tj T* (every clip follows one consistent input) Tj T* (convention.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 640.7953 335.9094 cm
+q
+BT 1 0 0 1 0 10.1 Tm 8.5 TL /F1 6.9 Tf 0 0 0 rg (____________________) Tj  T* (Date: __________) Tj T* ET
+Q
+Q
+q
+1 0 0 1 3 263.624 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.6 Tm /F1 6.9 Tf 8.5 TL (7) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.85827 242.374 cm
+q
+BT 1 0 0 1 0 44.1 Tm 8.5 TL /F2 6.9 Tf 0 0 0 rg (Audio standardization and feature extraction) Tj /F1 6.9 Tf  T* (Implemented or worked on mono conversion, resampling to 16 kHz,) Tj T* (fixed-duration handling through trimming/padding to 5 seconds, and peak) Tj T* (normalization. Prepared log-Mel spectrogram and MFCC feature extraction.) Tj T* (Checked feature dimensions and verified that extracted features were) Tj T* (produced consistently across the dataset.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 300.6378 263.624 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.6 Tm /F1 6.9 Tf 8.5 TL (____) Tj T* ET
+Q
+Q
+q
+1 0 0 1 337.4882 255.124 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 18.6 Tm /F1 6.9 Tf 8.5 TL (Preprocessing code; feature-extraction notebook;) Tj T* (saved feature arrays or plots; add actual run) Tj T* (IDs/commit hashes.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 504.7323 250.874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 27.1 Tm /F1 6.9 Tf 8.5 TL (Maintaining consistent tensor/feature) Tj T* (dimensions after resampling and handling) Tj T* (clips that require trimming or) Tj T* (zero-padding.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 640.7953 259.374 cm
+q
+BT 1 0 0 1 0 10.1 Tm 8.5 TL /F1 6.9 Tf 0 0 0 rg (____________________) Tj  T* (Date: __________) Tj T* ET
+Q
+Q
+q
+1 0 0 1 3 187.0886 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.6 Tm /F1 6.9 Tf 8.5 TL (8) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.85827 165.8386 cm
+q
+BT 1 0 0 1 0 44.1 Tm 8.5 TL /F2 6.9 Tf 0 0 0 rg (MFCC feature engineering and SVM baseline) Tj /F1 6.9 Tf  T* (Prepared the classical baseline feature vector using MFCC-based descriptors) Tj T* (and the additional summary/delta statistics described in the project.) Tj T* (Configured the SVM classifier with an RBF kernel and connected extracted) Tj T* (features to the training labels. Ran baseline training using the designated) Tj T* (training split.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 300.6378 187.0886 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.6 Tm /F1 6.9 Tf 8.5 TL (____) Tj T* ET
+Q
+Q
+q
+1 0 0 1 337.4882 178.5886 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 18.6 Tm /F1 6.9 Tf 8.5 TL (Baseline training script/notebook; feature matrix) Tj T* -0.088015 Tw (shape; SVM configuration and run output. Add actual) Tj T* 0 Tw (run identifiers.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 504.7323 178.5886 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 18.6 Tm /F1 6.9 Tf 8.5 TL (Selecting a stable feature representation) Tj T* (and ensuring that feature rows remain) Tj T* (aligned with the correct labels and folds.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 640.7953 182.8386 cm
+q
+BT 1 0 0 1 0 10.1 Tm 8.5 TL /F1 6.9 Tf 0 0 0 rg (____________________) Tj  T* (Date: __________) Tj T* ET
+Q
+Q
+q
+1 0 0 1 3 110.5531 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.6 Tm /F1 6.9 Tf 8.5 TL (9) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.85827 93.55315 cm
+q
+BT 1 0 0 1 0 35.6 Tm 8.5 TL /F2 6.9 Tf 0 0 0 rg (Baseline evaluation and comparison) Tj /F1 6.9 Tf  T* (Evaluated the SVM baseline on the held-out evaluation split using accuracy) Tj T* (and macro-F1. Reviewed the classification output and compared the baseline) Tj T* (with the neural-network approaches to establish a classical reference point.) Tj T* (Checked whether errors were concentrated in acoustically similar classes.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 300.6378 110.5531 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.6 Tm /F1 6.9 Tf 8.5 TL (____) Tj T* ET
+Q
+Q
+q
+1 0 0 1 337.4882 102.0531 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 18.6 Tm /F1 6.9 Tf 8.5 TL (Baseline metrics output; classification) Tj T* (report/confusion matrix if generated; comparison) Tj T* (table in the report. Add exact artifact references.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 504.7323 102.0531 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 18.6 Tm /F1 6.9 Tf 8.5 TL (The limited number of examples per class) Tj T* (makes class-level scores sensitive to a) Tj T* (small number of incorrect predictions.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 640.7953 106.3031 cm
+q
+BT 1 0 0 1 0 10.1 Tm 8.5 TL /F1 6.9 Tf 0 0 0 rg (____________________) Tj  T* (Date: __________) Tj T* ET
+Q
+Q
+q
+1 0 0 1 3 34.01772 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.6 Tm /F1 6.9 Tf 8.5 TL (10) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.85827 17.01772 cm
+q
+BT 1 0 0 1 0 35.6 Tm 8.5 TL /F2 6.9 Tf 0 0 0 rg (Preprocessing and baseline documentation) Tj /F1 6.9 Tf  T* (Reviewed the preprocessing and baseline pipeline for consistency with the) Tj T* (project protocol. Helped interpret the baseline results, checked that the) Tj T* (reported feature-extraction steps matched the implementation, and) Tj T* (documented the methodology and relevant limitations for the report.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 300.6378 34.01772 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.6 Tm /F1 6.9 Tf 8.5 TL (____) Tj T* ET
+Q
+Q
+q
+1 0 0 1 337.4882 25.51772 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 18.6 Tm /F1 6.9 Tf 8.5 TL (Report sections on dataset/preprocessing/baseline;) Tj T* (code review notes; add actual section/page and) Tj T* (commit references.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 504.7323 21.26772 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 27.1 Tm /F1 6.9 Tf 8.5 TL (Keeping the written description aligned) Tj T* (with the actual implementation and) Tj T* (avoiding claims not supported by saved) Tj T* (experiment outputs.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 640.7953 29.76772 cm
+q
+BT 1 0 0 1 0 10.1 Tm 8.5 TL /F1 6.9 Tf 0 0 0 rg (____________________) Tj  T* (Date: __________) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.533333 .533333 .533333 RG
+.45 w
+n 0 411.0236 m 748.3465 411.0236 l S
+n 0 0 m 0 411.0236 l S
+n 748.3465 0 m 748.3465 411.0236 l S
+n 0 0 m 748.3465 0 l S
+n 0 382.6772 m 748.3465 382.6772 l S
+n 0 306.1417 m 748.3465 306.1417 l S
+n 0 229.6063 m 748.3465 229.6063 l S
+n 0 153.0709 m 748.3465 153.0709 l S
+n 0 76.53543 m 748.3465 76.53543 l S
+n 53.85827 0 m 53.85827 411.0236 l S
+n 297.6378 0 m 297.6378 411.0236 l S
+n 334.4882 0 m 334.4882 411.0236 l S
+n 501.7323 0 m 501.7323 411.0236 l S
+n 637.7953 0 m 637.7953 411.0236 l S
+Q
+Q
+Q
+ 
+
+Q
+q
+0.0 0.0 841.8898 595.2756 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 350.4095 420.402 Tm
+(3) Tj
+T*
+ET
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 350.4095 343.8666 Tm
+(4) Tj
+T*
+ET
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 350.4095 267.3312 Tm
+(4) Tj
+T*
+ET
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 350.4095 190.7957 Tm
+(3) Tj
+T*
+ET
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 350.4095 114.2603 Tm
+(3) Tj
+T*
+ET
+BT
+/F1-0 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 706.9762 415.652 Tm
+(15\05711\0572026) Tj
+T*
+ET
+BT
+/F1-0 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 706.9762 339.1166 Tm
+(15\05711\0572026) Tj
+T*
+ET
+BT
+/F1-0 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 706.9762 262.5812 Tm
+(15\05711\0572026) Tj
+T*
+ET
+BT
+/F1-0 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 706.9762 186.0457 Tm
+(15\05711\0572026) Tj
+T*
+ET
+BT
+/F1-0 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 706.9762 109.5103 Tm
+(15\05711\0572026) Tj
+T*
+ET
+Q
+
+Q
+q
+0.0 0.0 841.8898 595.2756 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-1 12 Tf
+14.4 TL
+ET
+BT
+/F2-1 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 689.567 424.652 Tm
+(Gana Mohamed) Tj
+T*
+ET
+BT
+/F2-1 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 689.567 348.1166 Tm
+(Gana Mohamed) Tj
+T*
+ET
+BT
+/F2-1 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 689.567 271.5812 Tm
+(Gana Mohamed) Tj
+T*
+ET
+BT
+/F2-1 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 689.567 195.0457 Tm
+(Gana Mohamed) Tj
+T*
+ET
+BT
+/F2-1 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 689.567 118.5103 Tm
+(Gana Mohamed) Tj
+T*
+ET
+Q
+
+Q
+q
+0.0 0.0 841.8898 595.2756 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-2 12 Tf
+14.4 TL
+ET
+Q
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+11 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+12 0 obj
+<<
+/BaseFont /Helvetica-Oblique
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+13 0 obj
+<<
+/Contents 14 0 R
+/MediaBox [ 0 0 841.8898 595.2756 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 15 0 R
+/F1-1 16 0 R
+/F1-2 17 0 R
+/F2 10 0 R
+/F2-0 18 0 R
+/F2-1 19 0 R
+/F2-2 20 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+14 0 obj
+<<
+/Length 3937
+>>
+stream
+q
+q
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 46.77165 464.5512 cm
+q
+.203922 .286275 .368627 rg
+n 0 104.8819 748.3465 -28.34646 re f*
+1 1 1 rg
+n 0 76.53543 748.3465 -76.53543 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 3 86.70866 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1 Tm /F2 7 Tf 8 TL 14.78713 0 Td (Week) Tj T* -14.78713 0 Td ET
+Q
+Q
+q
+1 0 0 1 56.85827 86.70866 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1 Tm /F2 7 Tf 8 TL 67.34526 0 Td (Task / detailed work performed) Tj T* -67.34526 0 Td ET
+Q
+Q
+q
+1 0 0 1 300.6378 86.70866 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1 Tm /F2 7 Tf 8 TL 5.313697 0 Td (Hours) Tj T* -5.313697 0 Td ET
+Q
+Q
+q
+1 0 0 1 337.4882 82.70866 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 9 Tm /F2 7 Tf 8 TL 16.04705 0 Td (Evidence \(actual commits, runs, report) Tj T* 49.21 0 Td (sections\)) Tj T* -65.25705 0 Td ET
+Q
+Q
+q
+1 0 0 1 504.7323 86.70866 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1 Tm /F2 7 Tf 8 TL 28.0715 0 Td (Problems / challenges) Tj T* -28.0715 0 Td ET
+Q
+Q
+q
+1 0 0 1 640.7953 86.70866 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1 Tm /F2 7 Tf 8 TL 1.322591 0 Td (Co-signed by \(teammate, date\)) Tj T* -1.322591 0 Td ET
+Q
+Q
+q
+1 0 0 1 3 34.01772 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.6 Tm /F1 6.9 Tf 8.5 TL (Final \(to 20/11\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.85827 12.76772 cm
+q
+BT 1 0 0 1 0 44.1 Tm 8.5 TL /F2 6.9 Tf 0 0 0 rg (Final validation and report integration) Tj /F1 6.9 Tf  T* (Reviewed the final audio-processing and MFCC\226SVM descriptions, checked) Tj T* (the baseline numbers against the available experiment outputs, and helped) Tj T* (organize the final methodology/results presentation. Confirmed that the) Tj T* (contribution description distinguishes the classical baseline from the) Tj T* (deep-learning models.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 300.6378 34.01772 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.6 Tm /F1 6.9 Tf 8.5 TL (____) Tj T* ET
+Q
+Q
+q
+1 0 0 1 337.4882 25.51772 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 18.6 Tm /F1 6.9 Tf 8.5 TL (Final report revision; final baseline output; repository) Tj T* (commit\(s\). Add actual commit IDs, dates, and) Tj T* (evidence.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 504.7323 25.51772 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 18.6 Tm /F1 6.9 Tf 8.5 TL (Verifying final figures/tables and ensuring) Tj T* (the final report reflects the recorded) Tj T* (experiments accurately.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 640.7953 29.76772 cm
+q
+BT 1 0 0 1 0 10.1 Tm 8.5 TL /F1 6.9 Tf 0 0 0 rg (____________________) Tj  T* (Date: __________) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.533333 .533333 .533333 RG
+.45 w
+n 0 104.8819 m 748.3465 104.8819 l S
+n 0 76.53543 m 0 104.8819 l S
+n 0 0 m 0 76.53543 l S
+n 748.3465 76.53543 m 748.3465 104.8819 l S
+n 748.3465 0 m 748.3465 76.53543 l S
+n 0 0 m 748.3465 0 l S
+n 0 76.53543 m 748.3465 76.53543 l S
+n 53.85827 76.53543 m 53.85827 104.8819 l S
+n 297.6378 76.53543 m 297.6378 104.8819 l S
+n 334.4882 76.53543 m 334.4882 104.8819 l S
+n 501.7323 76.53543 m 501.7323 104.8819 l S
+n 637.7953 76.53543 m 637.7953 104.8819 l S
+n 53.85827 0 m 53.85827 76.53543 l S
+n 297.6378 0 m 297.6378 76.53543 l S
+n 334.4882 0 m 334.4882 76.53543 l S
+n 501.7323 0 m 501.7323 76.53543 l S
+n 637.7953 0 m 637.7953 76.53543 l S
+Q
+Q
+Q
+q
+1 0 0 1 28.67717 456.0472 cm
+Q
+q
+1 0 0 1 28.67717 446.0472 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F1 8 Tf 0 0 0 rg (Student signature: ________________________________  ) Tj ( ) Tj ( ) Tj (  Date: ________________) Tj T* ET
+Q
+Q
+ 
+
+Q
+q
+0.0 0.0 841.8898 595.2756 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 350.4095 500.7406 Tm
+(2) Tj
+T*
+ET
+BT
+/F1-0 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 706.9762 495.9906 Tm
+(15\05711\0572026) Tj
+T*
+ET
+Q
+
+Q
+q
+0.0 0.0 841.8898 595.2756 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-1 12 Tf
+14.4 TL
+ET
+BT
+/F2-1 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 689.567 504.9906 Tm
+(Gana Mohamed) Tj
+T*
+ET
+Q
+
+Q
+q
+0.0 0.0 841.8898 595.2756 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-2 12 Tf
+14.4 TL
+ET
+BT
+/F2-2 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 98.82917 448.3912 Tm
+(Omnya Aly Mohamed) Tj
+T*
+ET
+BT
+/F1-2 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 275.8532 448.3912 Tm
+(15\05711\0572026) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+15 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+16 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+17 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+18 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+19 0 obj
+<<
+/BaseFont /Helvetica-Oblique
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+20 0 obj
+<<
+/BaseFont /Helvetica-Oblique
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+xref
+0 21
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000120 00000 n 
+0000000169 00000 n 
+0000000463 00000 n 
+0000011469 00000 n 
+0000011576 00000 n 
+0000011683 00000 n 
+0000011790 00000 n 
+0000011897 00000 n 
+0000012010 00000 n 
+0000012123 00000 n 
+0000012239 00000 n 
+0000012551 00000 n 
+0000016541 00000 n 
+0000016649 00000 n 
+0000016757 00000 n 
+0000016865 00000 n 
+0000016978 00000 n 
+0000017094 00000 n 
+trailer
+<<
+/Size 21
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+17210
+%%EOF
